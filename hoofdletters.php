@@ -9,7 +9,7 @@ $input= strtolower($input);
 echo "$input \n";
 $input= ucwords($input);
 echo "$input \n";
-$input= ucfirst($input);
+$input= ucfirst(strtolower($input));
 echo "$input \n";
 
 
