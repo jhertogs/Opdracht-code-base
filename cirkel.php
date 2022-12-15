@@ -20,5 +20,4 @@ if(is_numeric($diameter)) {
 }
 //als input niet een numerische heeft of lager is dan 0: 
 echo "INVALID INPUT\n";
-
 ?>
